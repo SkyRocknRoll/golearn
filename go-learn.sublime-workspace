@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Write",
+				"ByteWriter	interface ¡"
+			],
+			[
+				"re",
+				"response	*http.Response ν"
+			],
+			[
+				"HE",
+				"WriteHeader	 ƒ"
+			],
+			[
+				"RE",
+				"RemoteAddr	string ν"
+			],
+			[
+				"Wrt",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"hos",
+				"host	string ν"
+			],
+			[
+				"Wr",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"wr",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"st",
+				"strconv	 package ρ"
+			],
+			[
+				"Writer",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"Writ",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"LIS",
+				"ListenAndServe	error ƒ"
+			],
+			[
+				"fun",
+				"func http handler	func(rw, req) ʂ"
+			],
+			[
+				"Re",
+				"Render	revel.Result ƒ"
+			],
+			[
+				"red",
+				"redisErr	error ν"
+			],
+			[
+				"r",
+				"r	*redis.Client ν"
+			],
+			[
+				"HA",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"FA",
+				"Fatal	 ƒ"
+			],
+			[
+				"C",
+				"Cmd	*redis.Reply ƒ"
+			],
+			[
+				"PR",
+				"Println	 ƒ"
+			],
+			[
+				"IN",
+				"Infoln	 ƒ"
+			],
+			[
+				"W",
+				"Warningln	 ƒ"
+			],
+			[
+				"PRI",
+				"Println	 ƒ"
+			],
+			[
+				"e",
+				"err	error ν"
+			],
+			[
+				"ListenAndServe",
+				"ListenAndServeTLS	error ƒ"
+			],
+			[
+				"write",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"mai",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"cla",
+				"cla	ClassName = Struct .. do .. end"
+			],
+			[
+				"cl",
+				"cla	Create controller class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "learn.go",
+			"settings":
+			{
+				"buffer_size": 1202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils/utils.go",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/golearn",
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/golearn/src",
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/golearn/src/utils"
+	],
+	"file_history":
+	[
+		"/home/uva/softwares/gopackages/src/goapp/conf/app.conf",
+		"/home/uva/softwares/gopackages/src/goapp/goapp.sublime-project",
+		"/home/uva/softwares/gopackages/src/goapp/app/tmp/main.go",
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/webapp/src/serve.go",
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/gosub/src/web/hello.go",
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/gosub/src/hello.go",
+		"/home/uva/softwares/gopackages/src/github.com/skyrocknroll/gosub/src/muha.go",
+		"/home/uva/gopackages/src/github.com/skyrocknroll/webapp/gocrud/README.md",
+		"/home/uva/gopackages/src/github.com/skyrocknroll/webapp/gocrud/src/crud.go",
+		"/home/uva/gopackages/src/github.com/skyrocknroll/webapp/gocrud/src/redServer.go",
+		"/home/uva/gopackages/src/github.com/skyrocknroll/webapp/gocrud/src/tryRedis.go",
+		"/home/uva/gopackages/src/github.com/fzzy/radix/extra/pool/pool.go",
+		"/home/uva/softwares/go/src/pkg/builtin/builtin.go",
+		"/home/uva/gopackages/src/github.com/fzzy/radix/redis/client.go",
+		"/home/uva/gopackages/src/github.com/skyrocknroll/webapp/src/crud.go",
+		"/home/uva/gopackages/src/github.com/golang/glog/glog.go",
+		"/home/uva/softwares/go/src/pkg/net/http/server.go",
+		"/home/uva/softwares/go/src/pkg/io/io.go",
+		"/home/uva/gopackages/src/github.com/skyrocknroll/webapp/src/[shell_cmd",
+		"/home/uva/Documents/books/Dropbox/Mackup/.config/sublime-text-3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/home/uva/Documents/books/Dropbox/Mackup/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/uva/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/uva/socialgame/aws/README",
+		"/home/uva/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"hi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "learn.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								986,
+								986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/utils/utils.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/uva/gopackages/src/github.com/skyrocknroll/webapp/src":
+	{
+		"height": 281.0
+	},
+	"output.9o:///home/uva/softwares/gopackages/src/github.com/skyrocknroll/golearn":
+	{
+		"height": 349.0
+	},
+	"output.9o:///home/uva/softwares/gopackages/src/github.com/skyrocknroll/gosub/src":
+	{
+		"height": 252.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 278.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "go-learn.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
